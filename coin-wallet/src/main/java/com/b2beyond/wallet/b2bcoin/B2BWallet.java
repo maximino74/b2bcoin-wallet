@@ -88,7 +88,7 @@ public class B2BWallet extends MainFrame {
         } catch (Exception e) { /* Lazy handling this >.> */ }
 
 
-        System.setProperty("user.home.forknote", "b2bcoin");
+        System.setProperty("user.home.forknote", "phonecoin");
 
         B2BUtil.copyConfigsOnRun();
 
